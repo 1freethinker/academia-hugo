@@ -8,7 +8,7 @@
 title = "Academia"
 
 # The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://kumfa.com/`.
+# End your URL with a `/` trailing slash, e.g. `https://kumfa.or.kr/`.
 baseURL = "https://kumfa.or.org/examplesite/"
 
 # Enter a copyright notice to display in the site footer.
