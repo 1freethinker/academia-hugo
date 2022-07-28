@@ -43,7 +43,7 @@ hero_media = "hero.webp"
 
 +++
 ## **KOREAN UNWED MOTHERS** 
-   **FAMILIES ASSOCIATION**
+## **FAMILIES ASSOCIATION**
 
 KUMFA advocates for the rights of unwed mothers and their children in Korea. It’s goal is to enable Korean women to have sufficient resources and support
 to keep their babies so that mother and child can thrive in Korean society.
