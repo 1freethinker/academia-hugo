@@ -35,13 +35,14 @@ hero_media = "hero.webp"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "/authors/admin"
-  label = "Know more"
+  label = "DONATE"
   
 [btn_alt]
   url = "#contact"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## **KOREAN UNWED MOTHERS** **FAMILIES ASSOCIATION**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+KUMFA advocates for the rights of unwed mothers and their children in Korea. It’s goal is to enable Korean women to have sufficient resources and support
+to keep their babies so that mother and child can thrive in Korean society.
