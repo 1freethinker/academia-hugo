@@ -7,7 +7,7 @@ authors:
 - admin
 # resume download button
 btn:
-- url : "https://kumfa.or.kr/docs/brochure.pdf"
+- url : "https://kumfa.or.kr/files/brochure.pdf"
   label : "Download Brochure"
 
 # Is this the primary user of the site?
@@ -22,7 +22,7 @@ superuser: true
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Should the user's education and interests be displayed?
 display_education: false
