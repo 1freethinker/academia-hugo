@@ -86,7 +86,7 @@ map = 1
 map_api_key = "AIzaSyCd9VM-sXz2ajUzECKhtQZ8PDBrguRhUSU"
 latitude = "37.5686832"
 longitude = "126.9314752"
-zoom = 15
+zoom = ""
 
 ############################
 ## Plugins                ##
