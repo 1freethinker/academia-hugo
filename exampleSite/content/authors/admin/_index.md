@@ -1,7 +1,7 @@
 ---
 # Display name
 name: About KUMFA
-avatar_image: "user-full.png"
+avatar_image: "header2.png"
 # Username (this should match the folder name)
 authors:
 - admin
